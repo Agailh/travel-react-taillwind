@@ -12,10 +12,10 @@ const Navbar = () => {
       </div>
       <ul className=" hidden md:flex">
         <li>Home</li>
-        <li>Destination</li>
+        <li>Destinations</li>
         <li>Travel</li>
         <li>Home</li>
-        <li>Home</li>
+        <li>Book</li>
       </ul>
       <div className="hidden md:flex">
         <BiSearch size={20} />
